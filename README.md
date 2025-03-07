@@ -32,7 +32,8 @@ And then dataset was cleaned and transformed, it was ready to the data modeled.
 
 Data visualization for the data analysis (DAX) was done in Microsoft Power BI Desktop.
 
-Dashboard: [View Dashboard](https://github.com/KSultanaGit/Telco-Customer-Churn-Analysis/blob/main/images/churn_dashboard.png)
+<img src="https://github.com/KSultanaGit/Telco-Customer-Churn-Analysis/blob/main/images/churn_dashboard.png" alt="Screenshot 1" width="500" height="200" align="center">
+
 
 ## Insights:
 
